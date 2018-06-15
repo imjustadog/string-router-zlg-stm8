@@ -1,18 +1,18 @@
-"C:\Users\zwq\Desktop\router\project\CW201x.c"
+"D:\GitHub\string-router-zlg-stm8\project\CW201x.c"
 -std=c99
 -ferror-limit=0
 -I
-C:\Users\zwq\Desktop\router\project
+D:\GitHub\string-router-zlg-stm8\project
 -I
-C:\Users\zwq\Desktop\router\project\..\inc
+D:\GitHub\string-router-zlg-stm8\project\..\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\stm8\inc\c
 -I
-C:\Users\zwq\Desktop\router\project
+D:\GitHub\string-router-zlg-stm8\project
 -I
-C:\Users\zwq\Desktop\router\inc
+D:\GitHub\string-router-zlg-stm8\inc
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

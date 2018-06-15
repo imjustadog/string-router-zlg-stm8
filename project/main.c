@@ -96,6 +96,7 @@ void main(void)
    GPIO_Init(GPIOC, GPIO_Pin_1, GPIO_Mode_Out_PP_Low_Fast); //scl
    GPIO_Init(GPIOC, GPIO_Pin_0, GPIO_Mode_Out_PP_Low_Fast); //sda
    ret = cw_bat_init();
+   cw_bat_work();
     
    while (1)
    {
